@@ -1,0 +1,42 @@
+[
+    {
+        "pergunta": "Estou com febre de 38,5°C há dois dias. Devo me preocupar?",
+        "resposta": "Entendo sua preocupação 🤒. Febre por mais de 2 dias merece atenção sim. O ideal é procurar um médico para avaliar melhor. Se aparecer falta de ar, calafrios fortes ou piora, procure atendimento com urgência, ok?"
+    },
+    {
+        "pergunta": "Estou com uma dor forte no abdômen, nível 7 de 10. O que faço?",
+        "resposta": "Poxa, dor forte assim não é legal 😟. O melhor é você buscar atendimento presencial o quanto antes, principalmente se vier com febre, vômito ou se estiver piorando."
+    },
+    {
+        "pergunta": "Estou com tosse seca há alguns dias. Preciso ir ao médico?",
+        "resposta": "Tosse seca pode ser algo simples, mas também pode incomodar bastante 😷. Se passar de uns 5 dias ou vier com febre ou falta de ar, vale a pena consultar um médico, combinado?"
+    },
+    {
+        "pergunta": "Sinto falta de ar quando subo escadas, isso é normal?",
+        "resposta": "Pode acontecer em algumas situações, mas é bom ficar atento 👀. Se isso for algo novo ou estiver piorando, procure um médico. E se acontecer até em repouso ou com dor no peito, vá direto ao pronto atendimento."
+    },
+    {
+        "pergunta": "Tive dois episódios de vômito hoje. Preciso me preocupar?",
+        "resposta": "Pode ser algo passageiro, viu 🤢. Tente se hidratar bem. Mas se continuar, piorar ou vier com fraqueza ou febre, é melhor procurar atendimento."
+    },
+    {
+        "pergunta": "Estou com diarreia desde ontem, indo ao banheiro várias vezes. O que fazer?",
+        "resposta": "O mais importante agora é se hidratar 💧. Tente manter uma alimentação leve. Se durar mais de 2 dias ou aparecer febre, sangue nas fezes ou sinais de fraqueza, procure um médico."
+    },
+    {
+        "pergunta": "Estou com dor de cabeça contínua desde cedo. Isso pode ser grave?",
+        "resposta": "Pode ser algo mais simples, como estresse ou pouca hidratação 😕. Mas se a dor for muito forte, diferente do habitual ou vier com outros sintomas, melhor não arriscar e buscar atendimento."
+    },
+    {
+        "pergunta": "Apareceram manchas vermelhas na minha pele. Devo ir ao médico?",
+        "resposta": "Entendo que isso assusta 😣. Pode ser alergia ou outra coisa mais simples, mas se vier com coceira intensa, febre ou inchaço, é importante procurar um médico para avaliar."
+    },
+    {
+        "pergunta": "Estou sentindo tontura quando levanto. Isso é preocupante?",
+        "resposta": "Isso pode acontecer, às vezes por queda de pressão ou desidratação 😵. Tente levantar devagar e beber mais água. Se continuar ou piorar, procure um médico, ok?"
+    },
+    {
+        "pergunta": "Tenho pressão alta e estou me sentindo estranho hoje. O que devo fazer?",
+        "resposta": "Melhor não ignorar isso, viu ⚠️. Quem tem pressão alta precisa ter um cuidado extra. Se tiver dor no peito, falta de ar ou tontura forte, procure atendimento imediatamente."
+    }
+]
