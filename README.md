@@ -19,7 +19,8 @@ Construído por 10 pares de perguntas e respostas sobre o tema do domínio.
 Defini a língua, a personalidade e acrescentei orientações de como dialogar com humanos.
 
 ## Aprendizado
-Aprendi como hospedar uma IA, configurá-la, treiná-la e, ao final, interagir com o chatbot criado.
+Neste projeto aprendi a rodar um LLM localmente com Ollama, customizá-lo via Modelfile usando system prompt e exemplos de few-shot prompting, e comparar o comportamento do modelo base com o customizado. Também aprendi a manter histórico de conversa para dar memória ao chatbot e integrar tudo num chatbot interativo funcional.
 
 ## Comparação Base vs Customizado
-<img width="1113" height="303" alt="image" src="https://github.com/user-attachments/assets/06ef15b3-0c8c-41a0-81cb-bf5ae3ad8e28" />
+<img width="933" height="385" alt="image" src="https://github.com/user-attachments/assets/fe689974-a98c-4c79-86a5-f47a4d2adadb" />
+
